@@ -1,20 +1,10 @@
-# Bio Link Remover Telegram Bot (Pyrogram)
+# Bio Link Remover Bot (Pyrogram)
 
-A simple Telegram bot that automatically **kicks users whose bio contains links**
-to prevent spam and advertising.
-
-## Features
-- 🚫 Removes users with links in their bio
-- Supports `https://`, `t.me/`, `@username`, social links, etc.
-- Uses Pyrogram
-- No database required
-- Lightweight & fast
-
----
+A Telegram bot that deletes:
+✔ Bio Links  
+✔ Promo links  
+✔ @username spam  
+✔ Shortened unsafe URLs  
+✔ Telegram invite links  
 
 ## Installation
-
-```bash
-git clone https://github.com/yourusername/bio-link-remover-bot
-cd bio-link-remover-bot
-pip install -r requirements.txt
