@@ -5,10 +5,10 @@ from bioremover import check_and_delete_biolink
 # ------------------------------
 # CONFIG
 # ------------------------------
-API_ID = 12345                     # CHANGE THIS
-API_HASH = "your_api_hash_here"    # CHANGE THIS
-BOT_TOKEN = "your_bot_token_here"  # CHANGE THIS
-OWNER_ID = 123456789               # CHANGE THIS (YOUR TELEGRAM ID)
+API_ID = 16841147                     # CHANGE THIS
+API_HASH = "724367ca3534a7e37594fcf3512dc8ad"    # CHANGE THIS
+BOT_TOKEN = "8527857229:AAGZhx7hO4i85PJaXz8x4GHjFXFvQiUuZmA"  # CHANGE THIS
+OWNER_ID = 7621384600               # CHANGE THIS (YOUR TELEGRAM ID)
 
 
 # ------------------------------
